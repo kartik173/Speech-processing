@@ -1,0 +1,8 @@
+number of your account number and your mobile,Sat Apr  6 16:18:35 2019,Credit card
+I am using ICICI credit card,Sat Apr  6 16:19:03 2019,Credit card
+9000 product,Sat Apr  6 16:19:10 2019,Loan
+it is debited in my account but,Sat Apr  6 16:19:15 2019,Credit card
+paid to the transaction,Sat Apr  6 16:19:19 2019,Loan
+check and tell me what is the problem,Sat Apr  6 16:19:23 2019,Credit card
+I want to know my credit,Sat Apr  6 16:19:31 2019,Credit card
+bye,Sat Apr  6 16:19:39 2019,bye
